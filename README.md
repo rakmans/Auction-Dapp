@@ -1,4 +1,4 @@
-# Token Generator
+# Auction
 
 Sell your NFT by creating an auction 😃
 
